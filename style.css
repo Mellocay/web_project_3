@@ -1,42 +1,45 @@
 @import url('./fonts/fonts.css');
 
 .page {
-  max-width: 1024px;
+  /*max-width: 1280px;*/
   background-color: #2A2C2F;
   margin: 0 auto;
-  font-family: 'inter', arial, sans-serif;
-  font-weight: 400;
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: normal;
   font-style: normal;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
-  max-width: 928px;
+  max-width: 984px;
   min-height: 44px;
-  margin: 34px auto 50px;
+  margin: 34px auto 58px;
 }
 
 .header__logo {
-  height: 44px;
-  width: 190px;
+  min-height: 44px;
+  max-width: 190px;
 }
 .header__lang {
   padding-left: 0;
-  margin: 0;
   margin-top: 12px;
   margin-bottom: 4px;
   display: flex;
 }
-.header__lang_option {
+.header__lang-link {
   list-style: none;
   color: #FFF;
   font-size: 24px;
   line-height: 28px;
 }
 
-.header__lang_option:last-of-type {
+.header__lang-link:last-of-type {
   margin-left: 18px;
+}
+
+.header__lang-link_current {
+  text-decoration: underline;
 }
 
 .main {
@@ -47,6 +50,8 @@
   margin: 0 auto;
   text-align: center;
   color: #FFF;
+  max-width: 984px;
+  min-height: 1005px;
 }
 
 .lead__title {
@@ -55,16 +60,19 @@
   line-height: 100px;
   margin: 0 auto;
   max-width: 720px;
+  min-height: 200px;
 }
 .lead__subtitle {
   font-size: 30px;
   line-height: 36px;
   font-weight: normal;
-  margin: 32px auto 56px;
+  margin: 32px auto 64px;
   max-width: 620px;
+  min-height: 72px;
 }
 .lead__image {
-  max-width: 928px;
+  max-width: 984px;
+  min-height: 615px;
   margin: 0 auto;
 }
 .lead__image-text {
@@ -75,7 +83,7 @@ font-size: 10px;
 line-height: 14px;
 letter-spacing: 0.15em;
 text-transform: uppercase;
-margin: 8px 0 92px 48px;
+margin: 8px 0 92px 0;
 }
 
 .intro {
