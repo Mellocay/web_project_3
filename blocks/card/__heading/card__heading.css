@@ -1,0 +1,8 @@
+.card__heading {
+  color: #AAA;
+  max-width: 456px;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  margin: 0 0 12px;
+}

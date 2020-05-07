@@ -1,0 +1,10 @@
+.intro__facts {
+  margin-top: 32px;
+  margin-bottom: 92px;
+  max-width: 690px;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  padding: 0;
+  list-style: none;
+}

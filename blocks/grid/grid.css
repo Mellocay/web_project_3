@@ -1,0 +1,10 @@
+@import url('./__photos/grid__photos.css');
+@import url('./__photo/grid__photo.css');
+@import url('');
+@import url('');
+@import url('');
+
+.grid {
+  margin: 0 48px 92px;
+  max-width: 1184px;
+}
