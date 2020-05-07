@@ -1,7 +1,7 @@
 @import url('./vendor/normalize.css');
 @import url('./fonts/fonts.css');
 
-.page {
+.root {
   max-width: 1280px;
   background-color: #2A2C2F;
   margin: 0 auto;
@@ -42,8 +42,6 @@
 .header__lang-link_current {
   text-decoration: underline;
 }
-
-.main {
   
 }
 
@@ -76,7 +74,7 @@
   min-height: 615px;
   margin: 0 auto;
 }
-.lead__image-text {
+.lead__text {
 max-width: 183px;
 font-family: Inter;
 font-weight: normal;
@@ -318,7 +316,56 @@ line-height: 26px;
 }
 
 /*
-* 1024px and higher (small laptops and beyond)
+* 1024px
 * 768px to 1024px (from a tablet in portrait to a tablet in landscape).
 * 425px to 768px (from a large smartphone to a tablet in portrait).
 * 320px to 425px (mobile devices). */
+
+@media screen and (min-width: 1024) and (max-width: 1279px) {
+  .some class here {
+      
+  }
+}
+
+@media screen and (min-width: 768) and (max-width: 1023px) {
+  .some class here {
+      
+  }
+}
+
+@media screen and (min-width: 425) and (max-width: 767px) {
+  .some class here {
+      
+  }
+}
+
+@media screen and (min-width: 320) and (max-width: 424px) {
+  .some class here {
+      
+  }
+}
+
+
+
+
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .photo-grid__item {
+    max-width: 100%;
+    height: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .photo-grid__item {
+    max-width: 100%;
+    height: 100%;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .photo-grid__item {
+    max-width: 100%;
+    height: 100%;
+  }
+}
