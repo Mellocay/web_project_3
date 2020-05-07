@@ -43,8 +43,6 @@
   text-decoration: underline;
 }
   
-}
-
 .lead {
   margin: 0 auto;
   text-align: center;
@@ -189,7 +187,7 @@ line-height: 26px;
   margin-top: 106px;
 }
 
-.card__website_heading {
+.card__heading {
   color: #AAA;
   max-width: 456px;
   font-size: 12px;
