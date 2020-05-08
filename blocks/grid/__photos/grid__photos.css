@@ -23,3 +23,11 @@
     grid-template-rows: repeat(6, 1fr);
   }
 }
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .grid__photos {
+    gap: 12px;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(12, 1fr);
+  }
+}
