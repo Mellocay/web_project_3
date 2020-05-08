@@ -1,21 +1,27 @@
 # Project 3: From Portland to Portland
 
 ### Overview
-* Intro
-* Figma
-* Images
+This is a website logging a journey from Portland, Maine to Portland, Oregon.  In this project I combined skills learned in previous sprints as well as new ones.  I learned about Figma, images, and more git.   
 
-**Intro**
+* [Here's a link to my project](             )
 
-Here's a link to the site: 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+**Old Skills**
 
-**Figma**
+The old skills I used for this project are my knowledge of positioning, z-index, display-flex, hover transitions, and BEM methodology.
 
-* [Link to the project on Figma](https://www.figma.com/file/lNsn9aE1Be6bvg9FeAzRXT/Sprint-3-From-Portland-to-Portland-desktop-mobile?node-id=0%3A1)
+**New Skills**
+
+@media queries, display-grid, and branches on git are some of the new skills I had to understand to finish this project.  At first, @media queries were difficult to grasp.  I found grid to be intuitive and enjoyed working with it.  Due to a git error, I lost 10+ hours of work on my project however, I painfully learned what not to do and won't likely make that error again.  
+
+**Figma and Extensions**
+
+Through this project I have become acquainted with Figma.  I learned how to check the properties of each element.  I also learned how to check my project with pixel perfect chrome extension.  
+* [Link to the project on Figma](https://www.figma.com/file/xM9rNsdK4iNcFJmDZho3Aw/Sprint-3%3A-From-Portland-to-Portland-%2F-desktop-%2B-mobile?node-id=500%3A0)
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+For the images on the site I had to export them from Figma and optimize them through [Tiny PNG](https://tinypng.com/), so that they would load faster.  
 
-Good luck and have fun!
+**Conclusion**
+
+It was a pleasure to work on this project and further my knowledge of CSS and HTML as well as best practices within the industry.  Thank you for reading.
