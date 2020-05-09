@@ -8,12 +8,10 @@
   text-align: center;
   color: #FFF;
   max-width: 984px;
-  min-height: 1005px;
 }
 
 @media screen and (min-width: 769px) and (max-width: 1024px) {
   .lead {
     max-width: 928px;
-    min-height: 500px;
   }
 }
