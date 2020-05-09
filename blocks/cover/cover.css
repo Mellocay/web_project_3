@@ -4,6 +4,6 @@
 @import url('./__subtitle/cover__subtitle.css');
 
 .cover {
-  margin: 92px auto;
+  margin: 0 auto 92px;
   color: #FFF;
 }
