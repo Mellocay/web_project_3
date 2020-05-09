@@ -6,6 +6,10 @@
   margin: 0;
 }
 
+.card__link:hover {
+  opacity: .8;
+}
+
 @media screen and (min-width: 401px) and (max-width: 756px) {
   .card__link {
     max-width: 352px;
