@@ -3,7 +3,7 @@
 ### Overview
 This is a website logging a journey from Portland, Maine to Portland, Oregon.  In this project I combined skills learned in previous sprints as well as new ones.  I learned about Figma, images, and more git.   
 
-* [Here's a link to my project](             )
+* [Here's a link to my project](https://mellocay.github.io/web_project_3/)
 
 **Old Skills**
 

@@ -5,3 +5,12 @@
 .footer__item:last-child {
   margin-right: 0;
 }
+
+@media screen and (min-width: 275px) and (max-width: 400px) {
+  .footer__item {
+    margin-bottom: 32px;
+  }
+  .footer__item:last-child {
+    margin-bottom: 0;
+  }
+}
