@@ -1,19 +1,14 @@
 .card__website {
-  margin-top: 30px;
-  margin-bottom: 48px;
-}
-
-.card__website_margin-large {
-  margin-top: 106px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  grid-column: 2;
+  grid-row: 1;
 }
 
 @media screen and (min-width: 425px) and (max-width: 768px) {
   .card__website {
     max-width: 352px;
-  }
-
-  .card__website_margin-large {
-    margin-top: 30px;
   }
 }
 
