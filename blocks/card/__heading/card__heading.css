@@ -3,7 +3,7 @@
   max-width: 456px;
   font-size: 12px;
   line-height: 12px;
-  letter-spacing: .2em;
+  letter-spacing: .2em; /*Dear reviewer, I took out all of the 0s on the left side of the . but for some reason those small changes are not getting noticed and sent to github.  Sorry*/
   margin: 0 0 12px;
 }
 
