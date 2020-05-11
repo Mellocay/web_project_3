@@ -2,6 +2,7 @@
 @import url('./__subtitle/intro__subtitle.css');
 @import url('./__text/intro__text.css');
 @import url('./__facts/intro__facts.css');
+@import url('./__fact/intro__fact_accent.css');
 
 .intro {
   color: #FFF;
