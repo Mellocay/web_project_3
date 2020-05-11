@@ -4,7 +4,12 @@
   font-weight: 900;
   font-size: 54px;
   line-height: 58px;
-  margin: 0;
+}
+
+@media screen and (min-width: 696px) and (max-width: 800px) {
+  .intro__title {
+    max-width: 720px;
+  }
 }
 
 @media screen and (min-width: 320px) and (max-width: 695px) {

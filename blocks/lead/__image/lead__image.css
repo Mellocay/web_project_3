@@ -9,6 +9,9 @@
     max-width: 928px;
     min-height: 580px;
     object-fit: cover;
+   
+    margin-left: 48px;
+    margin-right: 48px;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {

@@ -5,6 +5,7 @@
   margin: 32px auto 64px;
   max-width: 620px;
   min-height: 72px;
+  text-align: center;
 }
 
 @media screen and (min-width: 769px) and (max-width: 1024px) {

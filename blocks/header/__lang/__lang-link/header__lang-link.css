@@ -7,10 +7,6 @@
   margin-left: 18px;
 }
 
-.header__lang-link_current {
-  text-decoration: underline;
-}
-
 .header__lang-link:hover {
   opacity: .8;
 }
